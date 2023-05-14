@@ -18,6 +18,6 @@ A portfolio showing my growing skills as a developer! ✨
 
 npm links:
 
-- [npm react router dom](https://www.npmjs.com/package/react-router-dom)
+- [react router dom](https://www.npmjs.com/package/react-router-dom)
 
 - [react vertical timeline component](https://www.npmjs.com/package/react-vertical-timeline-component)
