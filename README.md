@@ -9,7 +9,7 @@ A portfolio showing my growing skills as a developer! ✨
 
 ## Installation
 ```npm start```
-- Will run app in http://localhost:3000 in your browser.
+- Will run app in http://localhost:3000 on your local browser.
 
 ## Credit/Resources
 - [Material UI](https://mui.com/material-ui/migration/migration-v4/)
