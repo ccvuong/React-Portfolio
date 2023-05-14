@@ -15,7 +15,8 @@ function Footer() {
                 <LinkedInIcon />
                 <EmailIcon />
             </div>
-            <p> &copy; 2023 Christina Vuong </p>
+            <p> &copy; 2023 All Rights Reserved </p>
+            <p> Made with 💖 by Christina Vuong 😎 </p>
         </div>
     );
 }
