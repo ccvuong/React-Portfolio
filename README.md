@@ -1,4 +1,5 @@
 # React-Portfolio
+A portfolio showing my growing skills as a developer! ✨
 
 ## Deployed Link
 (TBA)
@@ -8,7 +9,7 @@
 
 ## Installation
 ```npm start```
-- Will run app in http://localhost:3000 in you browser.
+- Will run app in http://localhost:3000 in your browser.
 
 ## Credit/Resources
 - [Material UI](https://mui.com/material-ui/migration/migration-v4/)
