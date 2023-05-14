@@ -12,7 +12,9 @@ A portfolio showing my growing skills as a developer! ✨
 - Will run app in http://localhost:3000 on your local browser.
 
 ## Credit/Resources
-- [Material UI](https://mui.com/material-ui/migration/migration-v4/)
+- [Material UI](https://mui.com/material-ui/getting-started/installation/)
+
+- [Material UI update](https://mui.com/material-ui/migration/migration-v4/)
 
 npm links:
 
