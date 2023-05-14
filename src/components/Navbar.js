@@ -5,16 +5,16 @@ import MenuIcon from '@mui/icons-material/Menu';
 
 function Navbar() {
     const [expandNavbar, setExpandNavbar] = useState(false);
-    
+
     return (
-    //    id checks if(?) navbar is open, if not then(:) it will be closed
+        //    id checks if(?) navbar is open, if not then(:) it will be closed
         <div className='navbar' id={expandNavbar ? "open" : "close"}>
             <div className='toggleButton'>
 
                 {/* onClick sets if navbar is previously true then false or vice versa */}
-                <button onClick={() => {setExpandNavbar((prev) => !prev)}}> 
-                    <MenuIcon /> 
-                    </button>
+                <button onClick={() => { setExpandNavbar((prev) => !prev) }}>
+                    <MenuIcon />
+                </button>
             </div>
             <div className='links'>
                 <Link to="/"> Home </Link>
@@ -23,7 +23,7 @@ function Navbar() {
                 <Link to="/resume"> Resume </Link>
             </div>
         </div>
-    )
+    );
 }
 
 export default Navbar
