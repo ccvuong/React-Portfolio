@@ -7,9 +7,9 @@ function Navbar() {
     const [expandNavbar, setExpandNavbar] = useState(false);
     
     return (
-        <div className='navbar'>
-            {/* id checks if navbar is open, if not then it will be closed */}
-            <div className='toggleButton' id={expandNavbar ? "open" : "close"}>
+    //    id checks if(?) navbar is open, if not then(:) it will be closed
+        <div className='navbar' id={expandNavbar ? "open" : "close"}>
+            <div className='toggleButton'>
 
                 {/* onClick sets if navbar is previously true then false or vice versa */}
                 <button onClick={() => {setExpandNavbar((prev) => !prev)}}> 
