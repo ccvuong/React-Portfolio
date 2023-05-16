@@ -1,9 +1,87 @@
-import React from 'react'
+import React from 'react';
+import '../styles/About.css';
+
+import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
+import "react-vertical-timeline-component/style.min.css";
+import AspectRatioIcon from '@mui/icons-material/AspectRatio';
+import SaveIcon from '@mui/icons-material/Save';
+import LocalLibraryIcon from '@mui/icons-material/LocalLibrary';
+
+import Avator from '../assets/c vuong designs logo.png';
 
 function About() {
   return (
-    <div>About</div>
-  )
+    <div className='aboutPage'>
+      <div className='about'>
+
+        <div className='logo'>
+          <img src={Avator} style={{ width: 500, height: 500 }} alt='logo' />
+        </div>
+
+        <h2> Hey there, I'm Christina 😎</h2>
+
+        <div className='prompt'>
+
+          <p>
+            A growing developer with a curious mind in learning the matrix.
+          </p>
+
+          <p> So, the blue pill 💙 or the red pill ❤️? </p>
+
+        </div>
+      </div>
+
+      <div className='skills'>
+        <h1>Skills</h1>
+
+
+        <VerticalTimeline lineColor='#3e497a'>
+
+          <VerticalTimelineElement className='vertical-timeline-element--frontEnd'
+
+            iconStyle={{ background: "#3e497a", color: "#fff" }}
+            icon={< AspectRatioIcon />}
+          >
+            <h3 className='vertical-timeline-element-title'>
+              🌈 Frontend
+            </h3>
+            <p>
+              ReactJS, HTML, CSS, Material UI
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement className='vertical-timeline-element--backEnd'
+
+            iconStyle={{ background: "#3e497a", color: "#fff" }}
+            icon={< SaveIcon />}
+          >
+            <h3 className='vertical-timeline-element-title'>
+              💾 Backend
+            </h3>
+            <p>
+              NodeJS, ExpressJS, MySql
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement className='vertical-timeline-element--languages'
+
+            iconStyle={{ background: "#3e497a", color: "#fff" }}
+            icon={< LocalLibraryIcon />}
+          >
+            <h3 className='vertical-timeline-element-title'>
+              ✍ Languages
+            </h3>
+            <p>
+              JavaScript
+            </p>
+          </VerticalTimelineElement>
+
+        </VerticalTimeline>
+      </div>
+
+
+    </div>
+  );
 }
 
-export default About
+export default About;

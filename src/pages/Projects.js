@@ -16,8 +16,8 @@ function Projects() {
         {ProjectList.map((project) => {
           return (
             // need to fix image error!
-            <ProjectItem name ={project.name}
-            image={project.name}/>
+            <ProjectItem name={project.name}
+              img src={project.image} />
           );
         })}
 
