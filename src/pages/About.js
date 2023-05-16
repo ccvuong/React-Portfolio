@@ -15,7 +15,7 @@ function About() {
       <div className='about'>
 
         <div className='logo'>
-          <img src={Avator} style={{ width: 500, height: 500 }} alt='logo' />
+          <img src={Avator} style={{ width: 300, height: 300 }} alt='logo' />
         </div>
 
         <h2> Hey there, I'm Christina 😎</h2>
