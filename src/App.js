@@ -5,6 +5,7 @@ import Projects from './pages/Projects';
 import About from './pages/About';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
+
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
