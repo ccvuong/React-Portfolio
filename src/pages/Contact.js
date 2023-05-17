@@ -16,14 +16,14 @@ function Contact() {
           If you'd like to reach me, send me an email at{' '}
           <a
             href="mailto:vuongchristina14@gmail.com"
-            title="vuongchristina14@gmail.com"
+            id="email"
           >
             vuongchristina14@gmail.com
           </a>
           {' '} or shoot me a message on{' '}
           <a
             href="https://www.linkedin.com/in/chrisvuongg/"
-            title="LinkedIn"
+            id="LinkedIn"
 
           >
             LinkedIn.

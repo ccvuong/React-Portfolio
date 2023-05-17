@@ -6,7 +6,7 @@
   width: 100%;
   align-items: center;
   font-family: "Arial", sans-serif;
-  color: #3e497a;
+  color: #fff;
 
 }
 
@@ -19,25 +19,16 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-color: #202020;
 
 }
 
 .contact h2 {
   font-size: 80px;
-  color: skyblue;
+  color: #23b2ed;
   height: 50px;
 }
 
-.contact .prompt {
-  width: 40%;
-  font-size: 30px;
-}
-
-.prompt svg {
-  font-size: 60px;
-  margin: 5px;
-  color: white;
-}
 
 .summary {
   font-size: 35px;
@@ -65,15 +56,14 @@
   font-size: large;
 }
 
+.contactMe #email,
+.LinkedIn {
+  color: aqua;
+}
+
 @media only screen and (max-width: 600px) {
   .contact h2 {
     font-size: 40px;
-  }
-
-  .contact .prompt {
-    margin-top: 10px;
-    font-size: 20px;
-    width: 80%;
   }
 
   .summary {

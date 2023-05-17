@@ -17,8 +17,8 @@ function Projects() {
 
           return (
             <ProjectItem name={item.name}
-            image={item.image}>
-              
+              image={item.image}>
+
             </ProjectItem>
           )
 

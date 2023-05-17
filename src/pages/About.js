@@ -35,11 +35,11 @@ function About() {
         <h1>Skills</h1>
 
 
-        <VerticalTimeline lineColor='#3e497a'>
+        <VerticalTimeline lineColor='#202020'>
 
           <VerticalTimelineElement className='vertical-timeline-element--frontEnd'
 
-            iconStyle={{ background: "#3e497a", color: "#fff" }}
+            iconStyle={{ background: "#23b2ed", color: "#fff" }}
             icon={< AspectRatioIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
@@ -52,7 +52,7 @@ function About() {
 
           <VerticalTimelineElement className='vertical-timeline-element--backEnd'
 
-            iconStyle={{ background: "#3e497a", color: "#fff" }}
+            iconStyle={{ background: "#23b2ed", color: "#fff" }}
             icon={< SaveIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
@@ -65,7 +65,7 @@ function About() {
 
           <VerticalTimelineElement className='vertical-timeline-element--languages'
 
-            iconStyle={{ background: "#3e497a", color: "#fff" }}
+            iconStyle={{ background: "#23b2ed", color: "#fff" }}
             icon={< LocalLibraryIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
