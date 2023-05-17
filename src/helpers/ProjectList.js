@@ -4,7 +4,7 @@ import teamProfile from '../assets/team profile generator.png';
 import weatherApp from '../assets/cv weather dashboard.png';
 import tapiTea from '../assets/TapiTea splash screen.png';
 import hbv from '../assets/know HBV mockup.png';
-import { GitHub } from '@mui/icons-material';
+
 
 export const ProjectList = [
     {

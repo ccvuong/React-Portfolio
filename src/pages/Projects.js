@@ -13,20 +13,23 @@ function Projects() {
       <h1>Projects</h1>
 
       <div className='projectList'>
-        {ProjectList.map((item) => {
+        {ProjectList.map((item, index) => {
+          console.log(index)
 
           return (
-            <ProjectItem name={item.name}
-              image={item.image}>
+            <ProjectItem name={item.name} image={item.image} key={index}>
 
             </ProjectItem>
-          )
-
+            
+          );
+          
         })}
+        
 
       </div>
     </div>
   );
 }
+
 
 export default Projects;
