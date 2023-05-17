@@ -1,14 +1,9 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
 
 function ProjectItem({ image, name, id }) {
 
-    const locate = useNavigate();
     return (
-        <div className="projectItem"
-            onClick={() => {
-                locate("/project/" + id);
-            }}>
+        <div className="projectItem">
 
             <div style={{ backgroundImage: `url(${image})` }} className="bgImage" > </div>
             <h1> {name} </h1>
@@ -17,3 +12,4 @@ function ProjectItem({ image, name, id }) {
 }
 
 export default ProjectItem;
+
