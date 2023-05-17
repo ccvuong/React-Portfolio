@@ -8,7 +8,8 @@ function Navbar() {
 
     // this will make the navbar close when you select a link
     const location = useLocation();
-    useEffect(() => { setExpandNavbar(false);
+    useEffect(() => {
+        setExpandNavbar(false);
     }, [location]);
 
     return (
@@ -26,7 +27,8 @@ function Navbar() {
                 <Link to="/"> Projects </Link>
                 <Link to="/about"> About </Link>
                 <Link to="/contact"> Contact </Link>
-                <Link to="/resume"> Resume </Link>
+                <Link to="https://drive.google.com/file/d/1wOt2lE_4rLiyvXVGeDfcqIuOllmFlhdZ/view?usp=sharing"> Resume </Link>
+
             </div>
         </div>
     );

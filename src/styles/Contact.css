@@ -1,0 +1,90 @@
+.body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact {
+  width: 100%;
+  align-items: center;
+  font-family: "Arial", sans-serif;
+  color: #3e497a;
+
+}
+
+.contact {
+  width: 100%;
+  padding-top: 55px;
+  padding-bottom: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+
+.contact h2 {
+  font-size: 80px;
+  color: skyblue;
+  height: 50px;
+}
+
+.contact .prompt {
+  width: 40%;
+  font-size: 30px;
+}
+
+.prompt svg {
+  font-size: 60px;
+  margin: 5px;
+  color: white;
+}
+
+.summary {
+  font-size: 35px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.summary h1 {
+  color: #3e497a;
+}
+
+.summary .contactMe {
+  list-style: none;
+  width: 60%;
+}
+
+.contactMe span {
+  font-size: 20px;
+}
+
+.contactMe {
+  font-size: large;
+}
+
+@media only screen and (max-width: 600px) {
+  .contact h2 {
+    font-size: 40px;
+  }
+
+  .contact .prompt {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80%;
+  }
+
+  .summary {
+    text-align: center;
+  }
+
+  .contactMe {
+    padding: 0;
+  }
+
+  .summary h2 {
+    font-size: 30px;
+  }
+}

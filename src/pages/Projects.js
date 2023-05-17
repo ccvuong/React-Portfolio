@@ -13,17 +13,20 @@ function Projects() {
       <h1>Projects</h1>
 
       <div className='projectList'>
-        {ProjectList.map((project) => {
+        {ProjectList.map((item) => {
+
           return (
-            // need to fix image error!
-            <ProjectItem name={project.name}
-              img src={project.image} />
-          );
+            <ProjectItem name={item.name}
+            image={item.image}>
+              
+            </ProjectItem>
+          )
+
         })}
 
       </div>
     </div>
-  )
+  );
 }
 
-export default Projects
+export default Projects;
