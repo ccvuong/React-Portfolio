@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.69a9ebdc.css",
-    "main.js": "/React-Portfolio/static/js/main.8d203410.js",
-    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/know HBV mockup.png": "/React-Portfolio/static/media/know HBV mockup.bdf85ed584ec8e6b06d0.png",
-    "static/media/noted splash screen.png": "/React-Portfolio/static/media/noted splash screen.8ecff964c6f177f5cd62.png",
-    "static/media/TapiTea splash screen.png": "/React-Portfolio/static/media/TapiTea splash screen.628496f7e12d3582a30e.png",
-    "static/media/c vuong designs logo.png": "/React-Portfolio/static/media/c vuong designs logo.bb71b5cc74a63d71fcab.png",
-    "static/media/home splash screen.png": "/React-Portfolio/static/media/home splash screen.6fd8d6943ac6e6363d6a.png",
-    "static/media/team profile generator.png": "/React-Portfolio/static/media/team profile generator.3404e98786a13944ed52.png",
-    "static/media/cv weather dashboard.png": "/React-Portfolio/static/media/cv weather dashboard.ed6572990340eebc19c7.png",
-    "index.html": "/React-Portfolio/index.html",
-    "main.69a9ebdc.css.map": "/React-Portfolio/static/css/main.69a9ebdc.css.map",
-    "main.8d203410.js.map": "/React-Portfolio/static/js/main.8d203410.js.map",
-    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.69a9ebdc.css",
+    "main.js": "/static/js/main.3938fbe6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/know HBV mockup.png": "/static/media/know HBV mockup.bdf85ed584ec8e6b06d0.png",
+    "static/media/noted splash screen.png": "/static/media/noted splash screen.8ecff964c6f177f5cd62.png",
+    "static/media/TapiTea splash screen.png": "/static/media/TapiTea splash screen.628496f7e12d3582a30e.png",
+    "static/media/c vuong designs logo.png": "/static/media/c vuong designs logo.bb71b5cc74a63d71fcab.png",
+    "static/media/home splash screen.png": "/static/media/home splash screen.6fd8d6943ac6e6363d6a.png",
+    "static/media/team profile generator.png": "/static/media/team profile generator.3404e98786a13944ed52.png",
+    "static/media/cv weather dashboard.png": "/static/media/cv weather dashboard.ed6572990340eebc19c7.png",
+    "index.html": "/index.html",
+    "main.69a9ebdc.css.map": "/static/css/main.69a9ebdc.css.map",
+    "main.3938fbe6.js.map": "/static/js/main.3938fbe6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69a9ebdc.css",
-    "static/js/main.8d203410.js"
+    "static/js/main.3938fbe6.js"
   ]
 }
