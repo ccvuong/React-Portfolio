@@ -10,7 +10,7 @@
 
 .projects .title {
     color: #202020;
-    font-size: 35px;
+    font-size: 3em;
 }
 
 .projectList {
@@ -31,7 +31,6 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 
 .projectItem {
     border-radius: 15px;
@@ -76,16 +75,20 @@
 .linkInfoBtn:hover {
     background-color: #23b2ed;
     color: #fff;
+    cursor: pointer;
+}
+
+.linkBtns .type {
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 300;
 }
 
 .projectItem h1 {
     font-size: 23px;
-    color: #202020;
+    color: #fff;
     padding-top: 13px;
 }
-
-
-
 
 @media only screen and (max-width: 1300px) {
     .projectList {

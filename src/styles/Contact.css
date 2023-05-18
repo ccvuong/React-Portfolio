@@ -39,10 +39,6 @@
   align-items: center;
 }
 
-.summary h1 {
-  color: #3e497a;
-}
-
 .summary .contactMe {
   list-style: none;
   width: 60%;
@@ -57,8 +53,12 @@
 }
 
 .contactMe #email,
-.LinkedIn {
-  color: aqua;
+#LinkedIn {
+  color: #23b2ed;
+}
+
+.contactMe #email:hover, #LinkedIn:hover {
+  color: #a171ee;
 }
 
 @media only screen and (max-width: 600px) {

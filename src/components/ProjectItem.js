@@ -1,14 +1,18 @@
 import React from "react";
-import '../styles/ProjectCard.css'
 
-function ProjectItem({ image, name, liveUrl, gitUrl }) {
+function ProjectItem({ image, name, liveUrl, gitUrl, type }) {
 
     return (
         <div className="projectItem">
 
             <div style={{ backgroundImage: `url("${image}")` }} className="imageCard" >
 
+
+
                 <div className="linkBtns">
+                    <h1 className="projectCardName">{name}</h1>
+                    {/* <p className="type">{type}</p> */}
+
                     <a
                         href={liveUrl}
                         className="linkInfo"
