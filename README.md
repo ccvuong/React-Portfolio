@@ -5,14 +5,19 @@ A portfolio showing my growing skills as a developer! ✨
 (TBA)
 
 ## Preview
-(TBA)
+![react portfolio preview](https://github.com/ccvuong/React-Portfolio/assets/116984891/02bbcbd4-fcd5-4bb8-ac3c-1b339d1a3e25)
+
 
 ## Installation
 ```npm start```
 - Will run app in http://localhost:3000 on your local browser.
 
 ## Credit/Resources
-- [Material UI](https://mui.com/material-ui/getting-started/installation/)
+- Office hours with bootcamp staff ✨✨
+
+- [Material UI icons](https://mui.com/material-ui/material-icons/)
+
+- [Material UI installation](https://mui.com/material-ui/getting-started/installation/)
 
 - [Material UI update](https://mui.com/material-ui/migration/migration-v4/)
 
