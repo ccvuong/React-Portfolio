@@ -34,12 +34,14 @@ export const ProjectList = [
     {
         name: "TapiTea",
         image: tapiTea,
-        infoUrl: 'https://www.behance.net/gallery/151287035/TapiTea-Mobile-App',
+        liveUrl: 'https://www.behance.net/gallery/151287035/TapiTea-Mobile-App',
+        gitUrl: 'https://www.behance.net/gallery/151287035/TapiTea-Mobile-App',
 
     },
     {
         name: "HBV",
         image: hbv,
-        infoUrl: 'https://www.behance.net/gallery/138914429/Know-HBV-Medical-App',
+        liveUrl: 'https://www.behance.net/gallery/138914429/Know-HBV-Medical-App',
+        gitUrl: 'https://www.behance.net/gallery/138914429/Know-HBV-Medical-App'
     },
 ];
