@@ -10,11 +10,11 @@ function Projects() {
   return (
     <div className="projects">
 
-      <h1>Projects</h1>
+      <h1 className='title'>Projects</h1>
 
       <div className='projectList'>
         {ProjectList.map((item, index) => {
-          console.log(index)
+          console.log(item)
 
           return (
             <ProjectItem name={item.name} image={item.image} key={index}>
