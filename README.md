@@ -2,7 +2,7 @@
 A portfolio showing my growing skills as a developer! ✨
 
 ## Deployed Link
-(TBA)
+[Deployed Portfolio 🔥](https://ccvuong.github.io/React-Portfolio/)
 
 ## Preview
 ![react portfolio preview](https://github.com/ccvuong/React-Portfolio/assets/116984891/02bbcbd4-fcd5-4bb8-ac3c-1b339d1a3e25)
@@ -14,6 +14,8 @@ A portfolio showing my growing skills as a developer! ✨
 
 ## Credit/Resources
 - Office hours with bootcamp staff ✨✨
+
+- Referred to previous portfolio
 
 - [Material UI icons](https://mui.com/material-ui/material-icons/)
 
