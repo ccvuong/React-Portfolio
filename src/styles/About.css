@@ -29,10 +29,8 @@
   font-size: 30px;
 }
 
-.prompt svg {
-  font-size: 60px;
-  margin: 5px;
-  color: white;
+p.info {
+  font-size: 25px !important;
 }
 
 .skills {

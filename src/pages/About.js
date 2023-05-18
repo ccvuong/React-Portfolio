@@ -45,7 +45,7 @@ function About() {
             <h3 className='vertical-timeline-element-title'>
               🌈 Frontend
             </h3>
-            <p>
+            <p className='info'>
               ReactJS, HTML, CSS, Material UI
             </p>
           </VerticalTimelineElement>
@@ -58,7 +58,7 @@ function About() {
             <h3 className='vertical-timeline-element-title'>
               💾 Backend
             </h3>
-            <p>
+            <p className='info'>
               NodeJS, ExpressJS, MySql
             </p>
           </VerticalTimelineElement>
@@ -71,7 +71,7 @@ function About() {
             <h3 className='vertical-timeline-element-title'>
               ✍ Languages
             </h3>
-            <p>
+            <p className='info'>
               JavaScript
             </p>
           </VerticalTimelineElement>

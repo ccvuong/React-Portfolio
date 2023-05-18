@@ -37,6 +37,7 @@
     margin: 40px;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
     text-align: center;
+    background-color: #23b2ed80;
 }
 
 .projectItem:hover {
@@ -58,6 +59,7 @@
 .projectItem h1 {
     font-size: 23px;
     color: #202020;
+    padding-top: 13px;
 }
 
 @media only screen and (max-width: 1300px) {
