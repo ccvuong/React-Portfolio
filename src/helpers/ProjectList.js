@@ -4,15 +4,25 @@ import teamProfile from '../assets/team profile generator.png';
 import weatherApp from '../assets/cv weather dashboard.png';
 import tapiTea from '../assets/TapiTea splash screen.png';
 import hbv from '../assets/know HBV mockup.png';
+import pets from '../assets/cute puppy.jpg'
+
 
 
 export const ProjectList = [
+    {
+        name: "Pet Adoption ",
+        image: pets,
+        liveUrl: 'https://mysterious-caverns-96136.herokuapp.com/',
+        gitUrl: 'https://github.com/ccvuong/pet-adoption',
+        type: "Service"
+    },
+
     {
         name: "Home 🏡",
         image: homeProject,
         liveUrl: 'https://myhome.herokuapp.com/signUpPage',
         gitUrl: 'https://github.com/BriDray/Home',
-        type: "Invertory"
+        type: "Inventory"
     },
     {
         name: "Noted ✍",
