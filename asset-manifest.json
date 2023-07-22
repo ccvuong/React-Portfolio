@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.dd30bd30.css",
-    "main.js": "/React-Portfolio/static/js/main.bf8d0143.js",
-    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/know HBV mockup.png": "/React-Portfolio/static/media/know HBV mockup.bdf85ed584ec8e6b06d0.png",
-    "static/media/cute puppy.jpg": "/React-Portfolio/static/media/cute puppy.e5592ce5b51460235fe9.jpg",
-    "static/media/noted splash screen.png": "/React-Portfolio/static/media/noted splash screen.8ecff964c6f177f5cd62.png",
-    "static/media/TapiTea splash screen.png": "/React-Portfolio/static/media/TapiTea splash screen.628496f7e12d3582a30e.png",
-    "static/media/c vuong designs logo.png": "/React-Portfolio/static/media/c vuong designs logo.bb71b5cc74a63d71fcab.png",
-    "static/media/home splash screen.png": "/React-Portfolio/static/media/home splash screen.6fd8d6943ac6e6363d6a.png",
-    "static/media/team profile generator.png": "/React-Portfolio/static/media/team profile generator.3404e98786a13944ed52.png",
-    "static/media/cv weather dashboard.png": "/React-Portfolio/static/media/cv weather dashboard.ed6572990340eebc19c7.png",
-    "index.html": "/React-Portfolio/index.html",
-    "main.dd30bd30.css.map": "/React-Portfolio/static/css/main.dd30bd30.css.map",
-    "main.bf8d0143.js.map": "/React-Portfolio/static/js/main.bf8d0143.js.map",
-    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/about/static/css/main.dc300d61.css",
+    "main.js": "/about/static/js/main.9f33263d.js",
+    "static/js/787.a2cb61a6.chunk.js": "/about/static/js/787.a2cb61a6.chunk.js",
+    "static/media/know HBV mockup.png": "/about/static/media/know HBV mockup.bdf85ed584ec8e6b06d0.png",
+    "static/media/cute puppy.jpg": "/about/static/media/cute puppy.e5592ce5b51460235fe9.jpg",
+    "static/media/noted splash screen.png": "/about/static/media/noted splash screen.8ecff964c6f177f5cd62.png",
+    "static/media/TapiTea splash screen.png": "/about/static/media/TapiTea splash screen.628496f7e12d3582a30e.png",
+    "static/media/c vuong designs logo.png": "/about/static/media/c vuong designs logo.bb71b5cc74a63d71fcab.png",
+    "static/media/home splash screen.png": "/about/static/media/home splash screen.6fd8d6943ac6e6363d6a.png",
+    "static/media/team profile generator.png": "/about/static/media/team profile generator.3404e98786a13944ed52.png",
+    "static/media/cv weather dashboard.png": "/about/static/media/cv weather dashboard.ed6572990340eebc19c7.png",
+    "index.html": "/about/index.html",
+    "main.dc300d61.css.map": "/about/static/css/main.dc300d61.css.map",
+    "main.9f33263d.js.map": "/about/static/js/main.9f33263d.js.map",
+    "787.a2cb61a6.chunk.js.map": "/about/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd30bd30.css",
-    "static/js/main.bf8d0143.js"
+    "static/css/main.dc300d61.css",
+    "static/js/main.9f33263d.js"
   ]
 }
