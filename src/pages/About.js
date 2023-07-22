@@ -1,11 +1,7 @@
 import React from 'react';
 import '../styles/About.css';
 
-import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import "react-vertical-timeline-component/style.min.css";
-import AspectRatioIcon from '@mui/icons-material/AspectRatio';
-import SaveIcon from '@mui/icons-material/Save';
-import LocalLibraryIcon from '@mui/icons-material/LocalLibrary';
 
 import Avator from '../assets/c vuong designs logo.png';
 
