@@ -7,9 +7,9 @@
 
 .about {
   width: 100%;
-  height: calc(100vh - 100px);
+  height: 50em;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -17,16 +17,35 @@
   color: #f0f0f0;
 }
 
-.about h2 {
+.logo {
+  margin-right: 2em;
+}
+
+.intro {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 80px;
+  font-size: 70px;
+  text-align: left;
   color: #23b2ed;
   height: 50px;
 }
 
 .about .prompt {
   width: 40%;
-  font-size: 30px;
+  font-size: 25px;
+}
+
+.background,
+p {
+  text-align: left;
+}
+
+.background #school {
+  color: #23b2ed
+}
+
+.background #school:hover {
+  color: #a171ee;
+
 }
 
 p.info {
@@ -53,6 +72,32 @@ p.info {
 
 .list span {
   font-size: 20px;
+}
+
+.resume {
+  margin-top: 5em;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.resumeBtn {
+  padding: 1em;
+  font-size: 26px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+  color: #fff;
+  background: #23b2ed;
+}
+
+.resumeBtn:hover {
+  cursor: pointer;
+  color: #23b2ed;
+  background: #202020;
+
 }
 
 @media only screen and (max-width: 600px) {

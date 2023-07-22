@@ -12,9 +12,28 @@ function Footer() {
     return (
         <div className="footer">
             <div className='socialMedia'>
-                <Link to="https://github.com/ccvuong"> <GitHubIcon /> </Link>
-                <Link to="https://www.linkedin.com/in/chrisvuongg/"> <LinkedInIcon/> </Link>
-                <Link to="mailto:vuongchristina14@gmail.com"> <EmailIcon /> </Link>
+                <a
+                    href="https://github.com/ccvuong" target="_blank" rel="noreferrer"
+                    id="GitHub"
+
+                >
+                    <GitHubIcon />
+                </a>
+                <a
+                    href="https://github.com/ccvuong" target="_blank" rel="noreferrer"
+                    id="LinkedIn"
+
+                >
+                    <LinkedInIcon />
+                </a>
+                <a
+                    href="https://github.com/ccvuong" target="_blank" rel="noreferrer"
+                    id="Email"
+
+                >
+                    <EmailIcon />
+                </a>
+
             </div>
             <p> &copy; 2023 All Rights Reserved </p>
             <p> Made with 💖 by Christina Vuong 😎 </p>

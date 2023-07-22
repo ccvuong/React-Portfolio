@@ -15,6 +15,8 @@ function ProjectItem({ image, name, liveUrl, gitUrl, type }) {
 
                     <a
                         href={liveUrl}
+                        target="_blank" 
+                        rel="noreferrer"
                         className="linkInfo"
                     >
                         <button className="linkInfoBtn">Live</button>
@@ -22,6 +24,8 @@ function ProjectItem({ image, name, liveUrl, gitUrl, type }) {
 
                     <a
                         href={gitUrl}
+                        target="_blank" 
+                        rel="noreferrer"
                         className="linkInfo"
                     >
                         <button className="linkInfoBtn">Repo</button>

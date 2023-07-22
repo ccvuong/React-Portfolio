@@ -17,69 +17,54 @@ function About() {
         <div className='logo'>
           <img src={Avator} style={{ width: 300, height: 300 }} alt='logo' />
         </div>
-
-        <h2> Hey there, I'm Christina 😎</h2>
-
         <div className='prompt'>
 
-          <p>
-            A growing developer with a curious mind in learning the matrix.
+          <h2 className='intro'> Hey there, I'm Christina 😎</h2>
+
+          <p> Lover of video games 🎮, movies 🎥, and my dogs 🐶</p>
+
+          <p className='background'>
+            A growing front end web developer with a curious mind in learning the matrix.
+            Recently earned a certificate in Full Stack Developer from {' '}
+
+            <a
+              href="https://cpe.ucdavis.edu/" target="_blank" rel="noreferrer"
+              id="school"
+            >
+              UC Davis Continuing and Professional Education
+            </a>
+            , where I gained experience in a variety of tools such as HTML, CSS, and JavaScript.
           </p>
 
+          <p className='background'> With a design background,
+            I provide creative input to the team and seek out effective paths
+            to communicate information to users. As a designer I learned how to
+            gather complex ideas and data into clear meaningful solutions to
+            our product.
+          </p>
+          
           <p> So, the blue pill 💙 or the red pill ❤️? </p>
 
         </div>
       </div>
 
-      <div className='skills'>
-        <h1>Skills</h1>
+      <div className='resume'>
+        <p>
 
+          <a
+            href="https://drive.google.com/file/d/1Gb-u1n1KfGSekrLrO39_LJVcXNLUGu8m/view?usp=drive_link"
+            target="_blank"
+            rel="noreferrer"
 
-        <VerticalTimeline lineColor='#202020'>
+            id="Resume"
 
-          <VerticalTimelineElement className='vertical-timeline-element--frontEnd'
-
-            iconStyle={{ background: "#23b2ed", color: "#fff" }}
-            icon={< AspectRatioIcon />}
           >
-            <h3 className='vertical-timeline-element-title'>
-              🌈 Frontend
-            </h3>
-            <p className='info'>
-              ReactJS, HTML, CSS, Material UI
-            </p>
-          </VerticalTimelineElement>
+            <button className='resumeBtn'> See Resume </button>
+          </a>
 
-          <VerticalTimelineElement className='vertical-timeline-element--backEnd'
+        </p>
 
-            iconStyle={{ background: "#23b2ed", color: "#fff" }}
-            icon={< SaveIcon />}
-          >
-            <h3 className='vertical-timeline-element-title'>
-              💾 Backend
-            </h3>
-            <p className='info'>
-              NodeJS, ExpressJS, MySql
-            </p>
-          </VerticalTimelineElement>
-
-          <VerticalTimelineElement className='vertical-timeline-element--languages'
-
-            iconStyle={{ background: "#23b2ed", color: "#fff" }}
-            icon={< LocalLibraryIcon />}
-          >
-            <h3 className='vertical-timeline-element-title'>
-              ✍ Languages
-            </h3>
-            <p className='info'>
-              JavaScript
-            </p>
-          </VerticalTimelineElement>
-
-        </VerticalTimeline>
       </div>
-
-
     </div>
   );
 }

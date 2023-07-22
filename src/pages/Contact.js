@@ -15,14 +15,14 @@ function Contact() {
         <p className='contactMe'>
           If you'd like to reach me, send me an email at{' '}
           <a
-            href="mailto:vuongchristina14@gmail.com"
+            href="mailto:vuongchristina14@gmail.com" target="_blank" rel="noreferrer"
             id="email"
           >
             vuongchristina14@gmail.com
           </a>
           {' '} or shoot me a message on{' '}
           <a
-            href="https://www.linkedin.com/in/chrisvuongg/"
+            href="https://www.linkedin.com/in/chrisvuongg/" target="_blank" rel="noreferrer"
             id="LinkedIn"
 
           >

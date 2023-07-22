@@ -10,7 +10,7 @@ import pets from '../assets/cute puppy.jpg'
 
 export const ProjectList = [
     {
-        name: "Pet Adoption ",
+        name: "Pet Adoption 🐶",
         image: pets,
         liveUrl: 'https://mysterious-caverns-96136.herokuapp.com/',
         gitUrl: 'https://github.com/ccvuong/pet-adoption',
