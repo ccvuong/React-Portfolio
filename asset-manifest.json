@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc300d61.css",
-    "main.js": "/static/js/main.bf3c0284.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/know HBV mockup.png": "/static/media/know HBV mockup.bdf85ed584ec8e6b06d0.png",
-    "static/media/cute puppy.jpg": "/static/media/cute puppy.e5592ce5b51460235fe9.jpg",
-    "static/media/noted splash screen.png": "/static/media/noted splash screen.8ecff964c6f177f5cd62.png",
-    "static/media/TapiTea splash screen.png": "/static/media/TapiTea splash screen.628496f7e12d3582a30e.png",
-    "static/media/c vuong designs logo.png": "/static/media/c vuong designs logo.bb71b5cc74a63d71fcab.png",
-    "static/media/home splash screen.png": "/static/media/home splash screen.6fd8d6943ac6e6363d6a.png",
-    "static/media/team profile generator.png": "/static/media/team profile generator.3404e98786a13944ed52.png",
-    "static/media/cv weather dashboard.png": "/static/media/cv weather dashboard.ed6572990340eebc19c7.png",
-    "index.html": "/index.html",
-    "main.dc300d61.css.map": "/static/css/main.dc300d61.css.map",
-    "main.bf3c0284.js.map": "/static/js/main.bf3c0284.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/about/static/css/main.dc300d61.css",
+    "main.js": "/react-portfolio/about/static/js/main.c1786820.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/about/static/js/787.a2cb61a6.chunk.js",
+    "static/media/know HBV mockup.png": "/react-portfolio/about/static/media/know HBV mockup.bdf85ed584ec8e6b06d0.png",
+    "static/media/cute puppy.jpg": "/react-portfolio/about/static/media/cute puppy.e5592ce5b51460235fe9.jpg",
+    "static/media/noted splash screen.png": "/react-portfolio/about/static/media/noted splash screen.8ecff964c6f177f5cd62.png",
+    "static/media/TapiTea splash screen.png": "/react-portfolio/about/static/media/TapiTea splash screen.628496f7e12d3582a30e.png",
+    "static/media/c vuong designs logo.png": "/react-portfolio/about/static/media/c vuong designs logo.bb71b5cc74a63d71fcab.png",
+    "static/media/home splash screen.png": "/react-portfolio/about/static/media/home splash screen.6fd8d6943ac6e6363d6a.png",
+    "static/media/team profile generator.png": "/react-portfolio/about/static/media/team profile generator.3404e98786a13944ed52.png",
+    "static/media/cv weather dashboard.png": "/react-portfolio/about/static/media/cv weather dashboard.ed6572990340eebc19c7.png",
+    "index.html": "/react-portfolio/about/index.html",
+    "main.dc300d61.css.map": "/react-portfolio/about/static/css/main.dc300d61.css.map",
+    "main.c1786820.js.map": "/react-portfolio/about/static/js/main.c1786820.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/about/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc300d61.css",
-    "static/js/main.bf3c0284.js"
+    "static/js/main.c1786820.js"
   ]
 }
