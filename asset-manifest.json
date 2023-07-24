@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.dc300d61.css",
-    "main.js": "/React-Portfolio/static/js/main.63f457ce.js",
+    "main.css": "/React-Portfolio/static/css/main.fb106acf.css",
+    "main.js": "/React-Portfolio/static/js/main.800d74c8.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/know HBV mockup.png": "/React-Portfolio/static/media/know HBV mockup.bdf85ed584ec8e6b06d0.png",
     "static/media/cute puppy.jpg": "/React-Portfolio/static/media/cute puppy.e5592ce5b51460235fe9.jpg",
@@ -12,12 +12,12 @@
     "static/media/team profile generator.png": "/React-Portfolio/static/media/team profile generator.3404e98786a13944ed52.png",
     "static/media/cv weather dashboard.png": "/React-Portfolio/static/media/cv weather dashboard.ed6572990340eebc19c7.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.dc300d61.css.map": "/React-Portfolio/static/css/main.dc300d61.css.map",
-    "main.63f457ce.js.map": "/React-Portfolio/static/js/main.63f457ce.js.map",
+    "main.fb106acf.css.map": "/React-Portfolio/static/css/main.fb106acf.css.map",
+    "main.800d74c8.js.map": "/React-Portfolio/static/js/main.800d74c8.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc300d61.css",
-    "static/js/main.63f457ce.js"
+    "static/css/main.fb106acf.css",
+    "static/js/main.800d74c8.js"
   ]
 }
