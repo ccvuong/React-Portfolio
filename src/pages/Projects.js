@@ -27,6 +27,8 @@ function Projects() {
               liveUrl={item.liveUrl}
               gitUrl={item.gitUrl}
               type={item.type}
+              description={item.description}
+              tech={item.tech}
             >
 
             </ProjectItem>

@@ -38,7 +38,7 @@ function About() {
             gather complex ideas and data into clear meaningful solutions to
             our product.
           </p>
-          
+
           <p> So, the blue pill 💙 or the red pill ❤️? </p>
 
         </div>
