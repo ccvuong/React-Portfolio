@@ -48,7 +48,7 @@ function About() {
         <p>
 
           <a
-            href="https://drive.google.com/file/d/1Gb-u1n1KfGSekrLrO39_LJVcXNLUGu8m/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1BeStl9Ux-2TnuwS5Q3ZEi5i6fhXPstVh/view?usp=drive_link"
             target="_blank"
             rel="noreferrer"
 
